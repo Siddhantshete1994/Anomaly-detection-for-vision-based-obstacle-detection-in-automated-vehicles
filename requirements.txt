@@ -1,0 +1,16 @@
+tensorflow-hub
+pyyaml
+h5py
+
+matplotlib
+pydot
+
+tqdm
+keras
+opencv-python
+scikit-image
+scikit-learn
+pillow
+seaborn
+
+
